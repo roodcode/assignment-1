@@ -356,7 +356,7 @@ margin-bottom: 40px;
     margin-bottom: 42px;
 }
 
-#my-insp .titile6{
+#my-insp{
     
  margin-top: 100px;
  padding: 0px;
@@ -367,10 +367,20 @@ font-weight: 800;
 line-height: 37px;
 letter-spacing: 0%;
 text-align: center;
-margin-bottom: 40px;
+margin-bottom: 400px;
 }
-.psub3{
-    height: 963px;
+.container{
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 32px;
+font-weight: 800;
+line-height: 37px;
+letter-spacing: 0%;
+text-align: center;
+margin-bottom: 100px;
+}
+.psub2{
+    margin-top: 40px;
     width: 852px;
     max-width: 100%; 
     height: 52px;
@@ -381,16 +391,4 @@ margin-bottom: 40px;
     line-height: 26px;
     letter-spacing: 0%;
     text-align: center;
-    margin: 0 auto;
-    margin-bottom: 200px;
-
-}
-.video21{
-width: 100vw;
-height: 100vh;
-display: flex;
-flex-direction: column;
-justify-content: center;
-align-items: center;
-margin-bottom: 200px;
 }
